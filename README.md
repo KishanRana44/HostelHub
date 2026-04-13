@@ -113,19 +113,6 @@ HostelHub is built with a modular architecture to handle every aspect of hostel 
     
 * **🛡️ QR Code Authentication** Advanced security module providing students with unique QR codes for contactless check-ins and identity verification.
 
-## 👥 Team Members & Roles
-
-Our team is composed of dedicated developers and engineers ensuring the stability and growth of **HostelHub**.
-
-| Name | Role |
-| :--- | :--- |
-| **RANA KISHAN PRAVINBHAI** | Team Lead & QA Engineer |
-| **SAVANI KIRTAN CHETANBHAI** | Frontend Developer |
-| **KHADELA YUG KAPILBHAI** | MERN Developer |
-| **NAGADWALA VEER HARISHKUMAR** | MERN Developer + Testing |
-| **KEVADIYA KRISH NITESHBHAI** | Backend & Database Engineer |
-
-
 ## 📸 Screenshots
 <img width="1915" height="871" alt="Screenshot 2026-04-13 185828" src="https://github.com/user-attachments/assets/26671ac2-f7d9-4bae-8705-1a71f10ed0d9" />
 
@@ -142,6 +129,4 @@ We are constantly looking to improve **HostelHub**. Here are the features curren
 -  **📊 Advanced Analytics Dashboard:** Visual insights for admins to track occupancy rates, revenue growth, and maintenance trends.
 -  **🤖 AI-Based Room Allocation:** An intelligent algorithm to suggest room pairings based on student preferences, habits, and personality profiles.
 
-## 👨‍💻 Developed By
 
-HostelHub Team
